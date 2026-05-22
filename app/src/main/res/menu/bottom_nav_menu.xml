@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_student"
+        android:icon="@drawable/ic_course"
+        android:title="Student" />
+    <item
+        android:id="@+id/nav_lecturer"
+        android:icon="@drawable/ic_attendance"
+        android:title="Lecturer" />
+    <item
+        android:id="@+id/nav_admin"
+        android:icon="@drawable/ic_session"
+        android:title="Admin" />
+</menu>

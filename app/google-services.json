@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17690725563",
+    "project_id": "palpito-1",
+    "storage_bucket": "palpito-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17690725563:android:d60b6ce1ad3585c147ad9e",
+        "android_client_info": {
+          "package_name": "com.example.palpito1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSaQ5IF2C-vmfRx7ce6fWPoPUVF3whZ6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
